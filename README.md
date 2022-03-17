@@ -1,7 +1,5 @@
 ## NeuralNetwork
 
-# Objetivo
-
 Código destinado para solução dos problemas propostos em aula:
 
 1- Realizar pelo menos 3 cenários de testes com cada base de dados disponibilizado afins de observar o comportamento de uma rede neural.
