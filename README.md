@@ -1,6 +1,8 @@
 ## NeuralNetwork
 
-# Código destinado para solução dos problemas propostos em aula:
+# Objetivo
+
+Código destinado para solução dos problemas propostos em aula:
 
 1- Realizar pelo menos 3 cenários de testes com cada base de dados disponibilizado afins de observar o comportamento de uma rede neural.
 
@@ -10,5 +12,5 @@
 
 # Alunos
 
-Erik Fernando Mendes Silva RA: 22.119.074-7
+Erik Fernando Mendes Silva RA: 22.119.074-7                                            
 Vanessa Gomes Favorito RA: 22.119.009-3
